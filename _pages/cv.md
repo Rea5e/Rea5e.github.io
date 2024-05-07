@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D. in Economics, School of Economics and Management, Tsinghua University, 2024 (expected)
-* Exchange Student, Department of Economics, Texas A&M University, 2017
 * B.A. in Economics, Guanghua School of Management , Peking University, 2019
 * B.A. in Math (Double Degree), School of Mathematical Sciences, Peking University, 2019
+* Exchange Student, Department of Economics, Texas A&M University, 2017
 
 
 
