@@ -39,10 +39,8 @@ Teaching
   
 Conference Presentations
 ======
-* 2022:
-8th Annual Contests: Theory and Evidence (CTE) Conference
-* 2023:
-Beijing International Workshop on Microeconomics: Empirics, Experiments and Theory (MEET)
+* 8th Annual Contests: Theory and Evidence (CTE) Conference, 2022
+* Beijing International Workshop on Microeconomics: Empirics, Experiments and Theory (MEET), 2023
 
 Service
 ======
