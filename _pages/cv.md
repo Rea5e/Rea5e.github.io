@@ -18,14 +18,14 @@ Education
 
 
 
-Skills
+Programing Skills
 ======
 * Python
 * Wolfram Alpha(Mathematica)
 * R
 * Stata
 
-Researches
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
