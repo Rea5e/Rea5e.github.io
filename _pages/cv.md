@@ -21,8 +21,9 @@ Education
 Skills
 ======
 * Python
-* Mathematica
-* InDesign
+* Wolfram Alpha(Mathematica)
+* R
+* Stata
 
 Researches
 ======
@@ -36,6 +37,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Conference Presentations
+======
+* 2022:
+8th Annual Contests: Theory and Evidence (CTE) Conference
+* 2023:
+Beijing International Workshop on Microeconomics: Empirics, Experiments and Theory (MEET)
+
 Service
 ======
 * Referee:
